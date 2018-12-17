@@ -17,27 +17,13 @@ includes:
 search: true
 ---
 
-# Introduction
+# Introductie
 
 Welkom bij het developer portal van NDC Mediagroep. Op deze pagina hebben we een complete collectie van de APIs en microservices die beschikbaar zijn.
 
 We hebben voor de meeste API's voorbeelden toegevoegd voor meerdere talen.
 
 # Authentication
-
-> To authorize, use this code:
-
-```ruby
-require 'kittn'
-
-api = Kittn::APIClient.authorize!('meowmeowmeow')
-```
-
-```python
-import kittn
-
-api = kittn.authorize('meowmeowmeow')
-```
 
 ```shell
 # With shell, you can just pass the correct header with each request
